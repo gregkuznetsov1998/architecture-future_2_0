@@ -1,5 +1,3 @@
-# Terraform with Remote State and GitHub Actions
-
 ## Описание скриптов
 
 ### backend.tf
